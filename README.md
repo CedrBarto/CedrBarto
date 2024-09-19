@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CedrBarto
 - 👀 I’m interested in IT & Cie
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java, JS, PHP, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
